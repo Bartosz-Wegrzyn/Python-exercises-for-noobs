@@ -24,10 +24,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc386a25-8dda-4a16-a3c2-afd4393dec52" name="Default Changelist" comment="Task 4 done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 5.py" afterDir="false" />
-    </list>
+    <list default="true" id="dc386a25-8dda-4a16-a3c2-afd4393dec52" name="Default Changelist" comment="Task 5 done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597322834649</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task 5 done">
+      <created>1597325161892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597325161892</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +218,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 3 done" />
     <MESSAGE value="Task 4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 4 done" />
+    <MESSAGE value="Task 5 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 5 done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="972" y="389" width="615" height="451" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1597318112425">
