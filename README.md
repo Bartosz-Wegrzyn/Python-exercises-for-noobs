@@ -8,25 +8,25 @@
 ## Done:
 
 ## Undone:
-  ####Task 1 - Character Input
+  #### Task 1 - Character Input
         
     Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
-  ####Task 2 - Odd Or Even
+  #### Task 2 - Odd Or Even
         
     Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
 
-  ####Task 3 - List Less Than Ten
+  #### Task 3 - List Less Than Ten
   
       Take a list, say for example this one:
       a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
       and write a program that prints out all the elements of the list that are less than 5.
   
-  ####Task 4 - Divisors
+  #### Task 4 - Divisors
   
     Create a program that asks the user for a number and then prints out a list of all the divisors of that number. 
     (If you don’t know what a divisor is, it is a number that divides evenly into another number. For example, 13 is a divisor of 26 because 26 / 13 has no remainder.)
   
-  ####Task 5 - List Overlap
+  #### Task 5 - List Overlap
   
     Take two lists, say for example these two:
 
@@ -63,7 +63,7 @@
   
   
   
-  ####Task 9 - Guessing Game One
+  #### Task 9 - Guessing Game One
   
     Generate a random number between 1 and 9 (including 1 and 9). Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right. 
     (Hint: remember to use the user input lessons from the very first exercise)
@@ -74,7 +74,7 @@
     Keep track of how many guesses the user has taken, and when the game ends, print this out.
   
   
-  ####Task 10 - List Overlap Comprehensions 
+  #### Task 10 - List Overlap Comprehensions 
   
       This week’s exercise is going to be revisiting an old exercise (see Exercise 5), except require the solution in a different way.
     
@@ -95,10 +95,10 @@
     
     Randomly generate two lists to test this
   
-  ####Task 11 - Check Primality Functions
+  #### Task 11 - Check Primality Functions
     Ask the user for a number and determine whether the number is prime or not. (For those who have forgotten, a prime number is a number that has no divisors.). 
     You can (and should!) use your answer to Exercise 4 to help you. Take this opportunity to practice using functions, described below.
-  ####Task 12 - List Ends
+  #### Task 12 - List Ends
     Write a program that takes a list of numbers (for example, a = [5, 10, 15, 20, 25]) and makes a new list of only the first and last elements of the given list. 
     For practice, write this code inside a function.
   #### Task 13 - Fibonacci 
