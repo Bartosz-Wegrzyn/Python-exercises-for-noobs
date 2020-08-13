@@ -24,11 +24,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc386a25-8dda-4a16-a3c2-afd4393dec52" name="Default Changelist" comment="Task 5 done">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_beginnings.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_beginnings.iml" afterDir="false" />
+    <list default="true" id="dc386a25-8dda-4a16-a3c2-afd4393dec52" name="Default Changelist" comment="Task 6 done">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,33 +53,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Task 6">
-    <configuration name="Task 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_beginnings" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Task 7">
     <configuration name="Task 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_beginnings" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,13 +144,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task 7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_beginnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task 7" />
         <item itemvalue="Python.Task 6" />
         <item itemvalue="Python.Task 5" />
         <item itemvalue="Python.Task 4" />
         <item itemvalue="Python.Task 3" />
-        <item itemvalue="Python.Task 2" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597325161892</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task 6 done">
+      <created>1597337582543</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597337582543</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,33 +234,34 @@
     <MESSAGE value="Task 3 done" />
     <MESSAGE value="Task 4 done" />
     <MESSAGE value="Task 5 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 5 done" />
+    <MESSAGE value="Task 6 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 6 done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="972" y="389" width="615" height="451" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1597318112425">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="972" y="389" width="615" height="451" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597318112425" />
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1597337311703">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1597338532173">
       <screen x="0" y="0" width="1920" height="1060" />
     </state>
     <state width="2539" height="589" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597325022534" />
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1060@0.0.1920.1060" timestamp="1597337311703" />
-    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1597337311703">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1060@0.0.1920.1060" timestamp="1597338532173" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1597338532173">
       <screen x="0" y="0" width="1920" height="1060" />
     </state>
     <state width="2539" height="589" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597325022533" />
-    <state width="1899" height="290" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1060@0.0.1920.1060" timestamp="1597337311703" />
-    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1597337311703">
+    <state width="1899" height="290" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1060@0.0.1920.1060" timestamp="1597338532173" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1597338532173">
       <screen x="0" y="0" width="1920" height="1060" />
     </state>
     <state width="2539" height="589" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597325022533" />
-    <state width="1899" height="290" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1060@0.0.1920.1060" timestamp="1597337311703" />
-    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1597337311703">
+    <state width="1899" height="290" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1060@0.0.1920.1060" timestamp="1597338532173" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1597338532173">
       <screen x="0" y="0" width="1920" height="1060" />
     </state>
     <state width="2539" height="589" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597325022533" />
-    <state width="1899" height="290" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1060@0.0.1920.1060" timestamp="1597337311703" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1060@0.0.1920.1060" timestamp="1597338532173" />
     <state width="1899" height="357" key="GridCell.Tab.1.bottom" timestamp="1597337131088">
       <screen x="0" y="0" width="1920" height="1060" />
     </state>
@@ -282,11 +290,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1001" y="441" width="540" height="524" key="StructurePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1597323067434" />
-    <state x="654" y="328" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1597337432978">
+    <state x="654" y="328" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1597337593937">
       <screen x="0" y="0" width="1920" height="1060" />
     </state>
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1597322838408" />
-    <state x="654" y="328" width="800" height="523" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1060@0.0.1920.1060" timestamp="1597337432978" />
+    <state x="654" y="328" width="800" height="523" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1060@0.0.1920.1060" timestamp="1597337593937" />
     <state x="886" y="310" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597322913953">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
