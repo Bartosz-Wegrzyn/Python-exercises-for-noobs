@@ -24,9 +24,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc386a25-8dda-4a16-a3c2-afd4393dec52" name="Default Changelist" comment="Task 3 done">
+    <list default="true" id="dc386a25-8dda-4a16-a3c2-afd4393dec52" name="Default Changelist" comment="Task 4 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task 5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Task 4">
+  <component name="RunManager" selected="Python.Task 5">
     <configuration name="Task 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_beginnings" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,8 +141,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_beginnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task 5" />
         <item itemvalue="Python.Task 4" />
         <item itemvalue="Python.Task 3" />
         <item itemvalue="Python.Task 2" />
@@ -168,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597317878962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task 4 done">
+      <created>1597322834649</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597322834649</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,41 +213,62 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 done" />
+    <MESSAGE value="Task 4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4 done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="972" y="389" width="615" height="451" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1597318112425">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="972" y="389" width="615" height="451" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597318112425" />
-    <state width="2539" height="589" key="GridCell.Tab.0.bottom" timestamp="1597322775250">
+    <state width="2539" height="589" key="GridCell.Tab.0.bottom" timestamp="1597325022534">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="589" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597322775250" />
-    <state width="2539" height="589" key="GridCell.Tab.0.center" timestamp="1597322775250">
+    <state width="2539" height="589" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597325022534" />
+    <state width="2539" height="589" key="GridCell.Tab.0.center" timestamp="1597325022533">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="589" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597322775250" />
-    <state width="2539" height="589" key="GridCell.Tab.0.left" timestamp="1597322775250">
+    <state width="2539" height="589" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597325022533" />
+    <state width="2539" height="589" key="GridCell.Tab.0.left" timestamp="1597325022533">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="589" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597322775250" />
-    <state width="2539" height="589" key="GridCell.Tab.0.right" timestamp="1597322775250">
+    <state width="2539" height="589" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597325022533" />
+    <state width="2539" height="589" key="GridCell.Tab.0.right" timestamp="1597325022533">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="589" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597322775250" />
+    <state width="2539" height="589" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597325022533" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1597323080051">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597323080051" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1597323080051">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597323080051" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1597323080051">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597323080051" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1597323080051">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597323080051" />
     <state x="781" y="345" key="SettingsEditor" timestamp="1597314844023">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1597314844023" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1597317988625">
+    <state x="1001" y="441" width="540" height="524" key="StructurePopup" timestamp="1597323067434">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1597317988625" />
-    <state x="886" y="310" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597318837352">
+    <state x="1001" y="441" width="540" height="524" key="StructurePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1597323067434" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1597322838408">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="886" y="310" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1597318837352" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1597322838408" />
+    <state x="886" y="310" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597322913953">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="886" y="310" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1597322913953" />
     <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1597317985793">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
