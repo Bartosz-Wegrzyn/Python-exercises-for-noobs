@@ -552,3 +552,5 @@
 /venv/lib/python3.7/site-packages/pip/_vendor/webencodings/x_user_defined.py
 /venv/lib/python3.7/site-packages/pip/_internal/network/xmlrpc.py
 /venv/lib/python3.7/site-packages/setuptools-49.4.0.dist-info/zip-safe
+/venv/lib64/
+/venv/lib64/
