@@ -19,12 +19,10 @@
 # Until the user guesses the number.
 import random
 
-
 def cows_and_bulls():
     four_digit_str = str(random.randint(1000,9999))
     print(four_digit_str)
     number_of_guesses = 0
-
 
     while True:
         cow = 0
@@ -48,8 +46,5 @@ def cows_and_bulls():
             print("            /|    ||     /|    ||   /|    ||   /|    ||")
             print(f"Number of guesses:{number_of_guesses}")
             exit()
-
-
-
 
 cows_and_bulls()
