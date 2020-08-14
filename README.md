@@ -95,25 +95,25 @@
     
     Randomly generate two lists to test this
   
-  #### Task 11 - Check Primality Functions
+  #### Task 11 - Check Primality Functions```Done✅```
     Ask the user for a number and determine whether the number is prime or not. (For those who have forgotten, a prime number is a number that has no divisors.). 
     You can (and should!) use your answer to Exercise 4 to help you. Take this opportunity to practice using functions, described below.
-  #### Task 12 - List Ends
+  #### Task 12 - List Ends```Done✅```
     Write a program that takes a list of numbers (for example, a = [5, 10, 15, 20, 25]) and makes a new list of only the first and last elements of the given list. 
     For practice, write this code inside a function.
-  #### Task 13 - Fibonacci 
+  #### Task 13 - Fibonacci ```Done✅```
     Write a program that asks the user how many Fibonnaci numbers to generate and then generates them. 
     Take this opportunity to think about how you can use functions. Make sure to ask the user to enter the number of numbers in the sequence to generate.
     (Hint: The Fibonnaci seqence is a sequence of numbers where the next number in the sequence is the sum of the previous two numbers in the sequence. 
     The sequence looks like this: 1, 1, 2, 3, 5, 8, 13, …)
-  #### Task 14 - List Remove Duplicates
+  #### Task 14 - List Remove Duplicates```Done✅```
     Write a program (function!) that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
 
     Extras:
     
     Write two different functions to do this - one using a loop and constructing a list, and another using sets.
     Go back and do Exercise 5 using sets, and write the solution for that in a different function.
-  #### Task 15 - Reverse Word Order
+  #### Task 15 - Reverse Word Order```Done✅```
   
     Write a program (using functions!) that asks the user for a long string containing multiple words. Print back to the user the same string, except with the words in backwards order. For example, say I type the string:
 
@@ -123,7 +123,7 @@
       Michele is name My
     shown back to me.
   
-  #### Task 16 - Password Generator
+  #### Task 16 - Password Generator```Done✅```
   
       Write a password generator in Python. 
       Be creative with how you generate passwords - strong passwords have a mix of lowercase letters, uppercase letters, numbers, and symbols. 
@@ -136,7 +136,7 @@
   #### Task 17 - Decode A Web Page
     Use the BeautifulSoup and requests Python packages to print out a list of all the article titles on the New York Times homepage.
   
-  #### Task 18 - Cows And Bulls
+  #### Task 18 - Cows And Bulls```Done✅```
   
       Create a program that will play the “cows and bulls” game with the user. The game works like this:
     
