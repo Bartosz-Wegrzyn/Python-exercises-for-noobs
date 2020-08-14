@@ -5,29 +5,28 @@
  
 
 
-## Done:
 
-  #### Task 1 - Character Input
+  #### Task 1 - Character Input  ```Done✅```
+
         
     Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
   #### Task 2 - Odd Or Even
         
     Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
 
-## Undone:
 
-  #### Task 3 - List Less Than Ten
+  #### Task 3 - List Less Than Ten ```Done✅```
   
       Take a list, say for example this one:
       a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
       and write a program that prints out all the elements of the list that are less than 5.
   
-  #### Task 4 - Divisors
+  #### Task 4 - Divisors```Done✅```
   
     Create a program that asks the user for a number and then prints out a list of all the divisors of that number. 
     (If you don’t know what a divisor is, it is a number that divides evenly into another number. For example, 13 is a divisor of 26 because 26 / 13 has no remainder.)
   
-  #### Task 5 - List Overlap
+  #### Task 5 - List Overlap```Done✅```
   
     Take two lists, say for example these two:
 
@@ -41,17 +40,17 @@
     Randomly generate two lists to test this
     Write this in one line of Python (don’t worry if you can’t figure this out at this point - we’ll get to it soon)
   
-  #### Task 6 - String Lists
+  #### Task 6 - String Lists```Done✅```
         
     Ask the user for a string and print out whether this string is a palindrome or not. (A palindrome is a string that reads the same forwards and backwards.)
   
-  #### Task 7 - List Comprehensions 
+  #### Task 7 - List Comprehensions ```Done✅```
   
     Let’s say I give you a list saved in a variable: a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]. 
     Write one line of Python that takes this list a and makes a new list that has only the even elements of this list in it.
   
   
-  #### Task 8 - Rock Paper Scissors
+  #### Task 8 - Rock Paper Scissors```Done✅```
   
     Make a two-player Rock-Paper-Scissors game. (Hint: Ask for player plays (using input), compare them, print out a message of congratulations to the winner, 
     and ask if the players want to start a new game)
@@ -64,7 +63,7 @@
   
   
   
-  #### Task 9 - Guessing Game One
+  #### Task 9 - Guessing Game One```Done✅```
   
     Generate a random number between 1 and 9 (including 1 and 9). Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right. 
     (Hint: remember to use the user input lessons from the very first exercise)
@@ -75,7 +74,7 @@
     Keep track of how many guesses the user has taken, and when the game ends, print this out.
   
   
-  #### Task 10 - List Overlap Comprehensions 
+  #### Task 10 - List Overlap Comprehensions ```Done✅```
   
       This week’s exercise is going to be revisiting an old exercise (see Exercise 5), except require the solution in a different way.
     
