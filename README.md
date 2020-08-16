@@ -21,12 +21,12 @@
       a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
       and write a program that prints out all the elements of the list that are less than 5.
   
-  #### Task 4 - Divisors```Done✅```
+  #### Task 4 - Divisors ```Done✅```
   
     Create a program that asks the user for a number and then prints out a list of all the divisors of that number. 
     (If you don’t know what a divisor is, it is a number that divides evenly into another number. For example, 13 is a divisor of 26 because 26 / 13 has no remainder.)
   
-  #### Task 5 - List Overlap```Done✅```
+  #### Task 5 - List Overlap ```Done✅```
   
     Take two lists, say for example these two:
 
@@ -40,7 +40,7 @@
     Randomly generate two lists to test this
     Write this in one line of Python (don’t worry if you can’t figure this out at this point - we’ll get to it soon)
   
-  #### Task 6 - String Lists```Done✅```
+  #### Task 6 - String Lists ```Done✅```
         
     Ask the user for a string and print out whether this string is a palindrome or not. (A palindrome is a string that reads the same forwards and backwards.)
   
@@ -50,7 +50,7 @@
     Write one line of Python that takes this list a and makes a new list that has only the even elements of this list in it.
   
   
-  #### Task 8 - Rock Paper Scissors```Done✅```
+  #### Task 8 - Rock Paper Scissors ```Done✅```
   
     Make a two-player Rock-Paper-Scissors game. (Hint: Ask for player plays (using input), compare them, print out a message of congratulations to the winner, 
     and ask if the players want to start a new game)
@@ -63,7 +63,7 @@
   
   
   
-  #### Task 9 - Guessing Game One```Done✅```
+  #### Task 9 - Guessing Game One ```Done✅```
   
     Generate a random number between 1 and 9 (including 1 and 9). Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right. 
     (Hint: remember to use the user input lessons from the very first exercise)
@@ -95,10 +95,10 @@
     
     Randomly generate two lists to test this
   
-  #### Task 11 - Check Primality Functions```Done✅```
+  #### Task 11 - Check Primality Functions ```Done✅```
     Ask the user for a number and determine whether the number is prime or not. (For those who have forgotten, a prime number is a number that has no divisors.). 
     You can (and should!) use your answer to Exercise 4 to help you. Take this opportunity to practice using functions, described below.
-  #### Task 12 - List Ends```Done✅```
+  #### Task 12 - List Ends ```Done✅```
     Write a program that takes a list of numbers (for example, a = [5, 10, 15, 20, 25]) and makes a new list of only the first and last elements of the given list. 
     For practice, write this code inside a function.
   #### Task 13 - Fibonacci ```Done✅```
@@ -106,14 +106,14 @@
     Take this opportunity to think about how you can use functions. Make sure to ask the user to enter the number of numbers in the sequence to generate.
     (Hint: The Fibonnaci seqence is a sequence of numbers where the next number in the sequence is the sum of the previous two numbers in the sequence. 
     The sequence looks like this: 1, 1, 2, 3, 5, 8, 13, …)
-  #### Task 14 - List Remove Duplicates```Done✅```
+  #### Task 14 - List Remove Duplicates ```Done✅```
     Write a program (function!) that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
 
     Extras:
     
     Write two different functions to do this - one using a loop and constructing a list, and another using sets.
     Go back and do Exercise 5 using sets, and write the solution for that in a different function.
-  #### Task 15 - Reverse Word Order```Done✅```
+  #### Task 15 - Reverse Word Order ```Done✅```
   
     Write a program (using functions!) that asks the user for a long string containing multiple words. Print back to the user the same string, except with the words in backwards order. For example, say I type the string:
 
@@ -123,7 +123,7 @@
       Michele is name My
     shown back to me.
   
-  #### Task 16 - Password Generator```Done✅```
+  #### Task 16 - Password Generator ```Done✅```
   
       Write a password generator in Python. 
       Be creative with how you generate passwords - strong passwords have a mix of lowercase letters, uppercase letters, numbers, and symbols. 
@@ -136,7 +136,7 @@
   #### Task 17 - Decode A Web Page
     Use the BeautifulSoup and requests Python packages to print out a list of all the article titles on the New York Times homepage.
   
-  #### Task 18 - Cows And Bulls```Done✅```
+  #### Task 18 - Cows And Bulls ```Done✅```
   
       Create a program that will play the “cows and bulls” game with the user. The game works like this:
     
@@ -175,7 +175,7 @@
     
     Use binary search.
   
-  #### Task 21 - Write To A File
+  #### Task 21 - Write To A File ```Done✅```
   
     Take the code from the How To Decode A Website exercise (if you didn’t do it or just want to play with some different code, use the code from the solution), and instead of printing the results to a screen, write the results to a txt file. In your code, just make up a name for the file you are saving to.
 
@@ -203,7 +203,7 @@
     The explanation is easier with an example, which I will describe below.)
   
   
-  #### Task 24 - Draw A Game Board
+  #### Task 24 - Draw A Game Board ```Done✅```
       
       This exercise is Part 1 of 4 of the Tic Tac Toe exercise series. The other exercises are: Part 2, Part 3, and Part 4.
     
@@ -239,7 +239,7 @@
     An alternate strategy might be to guess 50 (right in the middle of the range), and then increase / decrease by 1 as needed. 
     After you’ve written the program, try to find the optimal strategy! (We’ll talk about what is the optimal one next week with the solution.)
   
-  #### Task 26 - Check Tic Tac Toe
+  #### Task 26 - Check Tic Tac Toe ```Done✅```
   
       This exercise is Part 2 of 4 of the Tic Tac Toe exercise series. The other exercises are: Part 1, Part 3, and Part 4.
     
@@ -281,7 +281,7 @@
   
   
   
-  #### Task 27 - Tic Tac Toe Draw
+  #### Task 27 - Tic Tac Toe Draw ```Done✅```
       
       This exercise is Part 3 of 4 of the Tic Tac Toe exercise series. The other exercises are: Part 1, Part 2, and Part 4.
     
@@ -315,13 +315,13 @@
     For the “standard” exercise, don’t worry about “ending” the game - no need to keep track of how many squares are full. In a bonus version, keep track of how many squares are full and automatically stop asking for moves when there are no more valid moves.
   
   
-  #### Task 28 - Max Of Three
+  #### Task 28 - Max Of Three ```Done✅```
   
     Implement a function that takes as input three variables, and returns the largest of the three. Do this without using the Python max() function!
     
     The goal of this exercise is to think about some internals that Python normally takes care of for us. All you need is some variables and if statements!
   
-  #### Task 29 - Tic Tac Toe Game
+  #### Task 29 - Tic Tac Toe Game ```Done✅```
       
       This exercise is Part 4 of 4 of the Tic Tac Toe exercise series. The other exercises are: Part 1, Part 2, and Part 3.
     
