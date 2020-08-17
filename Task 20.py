@@ -1,6 +1,8 @@
-a = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
-     31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+import time
 
+a = []
+for i in range(19_000_000):
+    a.append(i)
 
 def binary_search(list, element):
     middle_element_index = len(list) // 2
@@ -9,16 +11,35 @@ def binary_search(list, element):
     if len(list) - 1 > 0:
 
         if element == middle_element:
-            print("TRUE")  # it is reaches to this point
-            return True  # But it doesn't return TRUE
+            print(f"Element {element} is in list")
         elif element < middle_element:
             binary_search(list[:middle_element_index], element)
         elif element > middle_element:
             binary_search(list[middle_element_index:], element)
 
     else:
-        return binary_search([1],1)
+        print(f"Element {element} is not in list")
+        return None
 
 
-# print(binary_search(a, 25))  # return None
-print(binary_search(a, 13))  # RecursionError
+def linear_search(list, element):
+    for i in range(len(list)):
+        if element == list[i]:
+            return True
+
+
+
+
+start = time.time()
+binary_search(a, 18_900_000)
+end = time.time()
+print(end - start)
+
+
+start = time.time()
+print(linear_search(a, 18_900_000))
+end = time.time()
+print(end - start)
+
+
+
