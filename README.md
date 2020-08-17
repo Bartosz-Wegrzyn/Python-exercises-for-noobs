@@ -167,7 +167,7 @@
     This will just print the full text of the article to the screen. It will not make it easy to read, so next exercise we will learn how to write this text to a .txt file.
   
   
-  #### Task 20 - Element Search 
+  #### Task 20 - Element Search  ```Done✅```
   
     Write a function that takes an ordered list of numbers (a list where the elements are in order from smallest to largest) and another number. The function decides whether or not the given number is inside the list and returns (then prints) an appropriate boolean.
 
