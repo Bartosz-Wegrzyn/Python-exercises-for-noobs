@@ -23,12 +23,6 @@ def add_record():
         file.seek(0)
         json.dump(birthday_dictionary, file)
 
-
-
-
-
-
-
 print("Welcome to the birthday dictionary. ")
 print("What do you need? ")
 print("1 - look for birthday. 2 - add record to dictionary")
